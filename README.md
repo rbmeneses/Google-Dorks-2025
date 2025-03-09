@@ -100,44 +100,6 @@ inurl:google search
 Pesquisa páginas que tenham **"Google"** na URL e **"search"** em qualquer parte do documento.
 
 ---
-# Lista de Dorks do Google e Banco de Dados Atualizado (2025)
-
-> **📌 Última atualização:** 6 de março de 2025  
-> **📖 Tempo estimado de leitura:** 16 minutos
-
-## 📌 O que são Google Dorks?
-
-Os Google Dorks são comandos avançados que permitem refinar as buscas no Google, explorando informações específicas dentro de sites e domínios.
-
-## 🔎 Como usar Google Dorks?
-
-Para utilizar um Google Dork, basta digitá-lo na barra de pesquisa do Google e pressionar **Enter**.
-
----
-
-## 📜 Exemplos de Consultas Google Dork
-
-```plaintext
-site:.edu "número de telefone"
-```
-> Pesquisa por sites em domínios `.edu` que contenham a frase **"número de telefone"**.
-
-```plaintext
-inurl:edu "login"
-```
-> Pesquisa sites educacionais (`.edu`) que contenham a palavra **"login"** na URL.
-
-```plaintext
-"powered by vbulletin" site:.gov
-```
-> Pesquisa por sites governamentais (`.gov`) que utilizam o software **vBulletin**.
-
-```plaintext
-inurl:.edu "register forum"
-```
-> Pesquisa fóruns educacionais (`.edu`) que permitem registro de usuários.
-
----
 
 ## 📂 Banco de Dados Atualizado do Google Dorks
 
