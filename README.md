@@ -420,7 +420,7 @@ intitle:\"Welcome to nginx!\" intext:\"Welcome to nginx on Debian!\" intext:\"Th
 intitle:\"index of\" \"Served by Sun-ONE\"
 -pub -pool intitle:\"index of\" \"Served by\" \"Web Server\"
 intitle:\"index of\" \"server at\"
-Usando uma sequência de pesquisa especial para encontrar sites vulneráveis:
+## 🔐 Usando uma sequência de pesquisa especial para encontrar sites vulneráveis:
 inurl:php?=id1
 inurl:index.php?id=
 inurl:trainers.php?id=
